@@ -1,2 +1,2 @@
 # prof.elmahjour
-Mathematics - Epidemic Mdels - Ressources for Students
+Mathematics - Epidemic Models - Ressources for Students
